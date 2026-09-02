@@ -57,6 +57,7 @@ VALUES (1, 'Alice', 'Engineer', 75000);
 SELECT * FROM employee_log;
 ```
 **Expected Output:**
+
 <img width="1013" height="344" alt="443681458-cf784a26-031d-4297-acdd-c00325826c7f" src="https://github.com/user-attachments/assets/0c96032a-272f-4660-917a-2a80d01cf03e" />
 
 
@@ -75,6 +76,7 @@ END;
 ```
 
 **Expected Output:**
+
 <img width="713" height="336" alt="443682713-2cad86cd-de05-4289-a04c-76815ed818c0" src="https://github.com/user-attachments/assets/b3400a32-daa4-4677-8649-edc3827a49e2" />
 
 
@@ -100,6 +102,7 @@ END;
 ```
 
 **Expected Output:**
+
 <img width="1003" height="339" alt="443684942-df495c47-c3ac-4e38-9b70-59e164ca3282" src="https://github.com/user-attachments/assets/69e083a6-d4df-464c-b503-08e829e02d93" />
 
 
@@ -136,6 +139,7 @@ SELECT update_count FROM audit_log WHERE table_name = 'customer_orders';
 ```
 
 **Expected Output:**
+
 <img width="979" height="359" alt="443687316-ecc87ff2-45bf-4704-a810-cb7cc1237562" src="https://github.com/user-attachments/assets/b96c622d-56be-477c-ab07-574b8e9e8b81" />
 
 
@@ -171,6 +175,7 @@ SELECT * from employees;
 
 
 **Expected Output:**
+
 <img width="941" height="359" alt="443690278-92b4c4a2-3d1f-4b87-a9f2-84b246f7d25a" src="https://github.com/user-attachments/assets/b06049a1-6b66-465e-befa-8f22e520719b" />
 
 
